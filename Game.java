@@ -219,7 +219,7 @@ public class Game {
 		currentQuestion = currentQuestion + 1;
 		questionNumberLabel.setText(currentQuestion + "/30");
 
-		questionArea.setText("Which one is a coding application for Python?\n\nThere are 2 answers available for this question!");
+		questionArea.setText("Which one is an IDE for Python?\n\nThere are 2 answers available for this question!");
 
 		answer4.setVisible(true);
 
